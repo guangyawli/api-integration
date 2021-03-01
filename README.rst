@@ -2,6 +2,7 @@ guangyaw add a test
 
 add second test2
 
+add test-branch2
 
 api-integration
 ===============
